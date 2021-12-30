@@ -1,3 +1,4 @@
 module.exports = {
-  presets: ["@vue/cli-plugin-babel/preset"],
+  // eslint-disable-next-line prettier/prettier
+  presets: ['@vue/babel-preset-jsx'],
 };
