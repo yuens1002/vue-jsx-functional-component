@@ -3,7 +3,7 @@
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png" />
     <HelloWorld
-      msg="Welcome <a href=''>to Your</a> <a href='somethings'>Vue.js</a> App"
+      msg="Welcome <a href=''>to Your</a> <a href='somethings'>Vue.js</a>, and App"
     />
   </div>
 </template>
